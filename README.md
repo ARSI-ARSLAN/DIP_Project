@@ -1,4 +1,4 @@
-# Digital Image Processing Project
+# Traffic Sign Classification Using Classical Image Processing 
 
 This project demonstrates several fundamental **Digital Image Processing (DIP)** techniques using Python.  
 The implementation focuses on **image preprocessing, filtering, enhancement, and edge detection** to analyze and improve image quality.
